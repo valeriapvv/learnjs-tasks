@@ -1,6 +1,8 @@
 /* Расположите заметку внутри элемента (абсолютное позиционирование)*/
 'use strict';
 
+// Песочница: https://plnkr.co/edit/nerhhQnOiUOgcuPp?p=preview&preview
+
 const Position = {
   TopOut: 'top-out',
   TopIn: 'top-in',

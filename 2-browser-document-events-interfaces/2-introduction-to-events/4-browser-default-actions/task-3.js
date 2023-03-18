@@ -1,4 +1,4 @@
-/* Поймайте переход по ссылке */
+/* Галерея изображений */
 'use strict';
 
 // Решение: https://codepen.io/valeriapvv/pen/jOvprOa
